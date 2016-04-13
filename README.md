@@ -48,5 +48,6 @@ An Incentive Based P2P Distributed File Storage System
 * [ ] Node leave
 
 ### To do (Sourav)
-* [ ] Global search
+* [x] Global search
+* [x] Cache implementation
 * [ ] Node leave
